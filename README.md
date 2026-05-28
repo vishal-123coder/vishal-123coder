@@ -101,7 +101,7 @@ API Testing using Postman
 Java, Spring Boot, Spring Security, PostgreSQL
 
 🔗 Repository: https://github.com/vishal-123coder/jobportal
----
+
 
 ### 📊 GitHub Stats
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal-123coder&show_icons=true&theme=default)
